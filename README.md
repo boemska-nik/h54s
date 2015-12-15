@@ -143,7 +143,7 @@ adapter.call('/Apps/myFirstService', tables, function(err, res) {
 ```
 If you're logged into your SPWA and have a session cookie already, you should see this:
 
-   ![Chrome console animation](https://i.imgur.com/7e4Fv1X.gifv)
+   ![Chrome console animation logged in](https://i.imgur.com/7e4Fv1X.gifv)
 
 Otherwise, if you're not logged in yet, you should see this:
 
